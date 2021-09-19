@@ -1,17 +1,13 @@
-### ⚡ Seja bem-vindo! ⚡
+### ⚡ Hi! Welcome! ⚡
 
-![img](https://wallpaperforu.com/wp-content/uploads/2021/03/Wallpaper-Anarchy-Anonymous-Computer-Hack-Hacker-Hack44.jpg)
-<!--
 **KelvinDevs/KelvinDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a technology lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm specializing in Database SQL, UML, Front-End, Cybersecurity, Cloud Computing, UX/UI.
+🎮 I really like video games.
+❤ My dream is to one day become a great analyst, that's what I love.
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kelvin-Matheus)
+
+[<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelvin-matheus-42b461181/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kelvinmath/)
